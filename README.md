@@ -31,8 +31,6 @@ IR_Project/
 | **Person 5** |  |
 | **Person 6** |  |
 
-*(Note: Replace placeholder names for Person 2 and Person 3 with your teammates' names.)*
-
 ---
 
 ## Environment & Setup (Windows)
