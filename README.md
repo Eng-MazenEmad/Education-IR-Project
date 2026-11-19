@@ -22,11 +22,14 @@ IR_Project/
 
 ## Team Members & Responsibilities
 
-| Role | Team Member | Task / Module | Output File |
-| :--- | :--- | :--- | :--- |
-| **Person 1** | Ahmed Ali Mohsen | **Positional Index**: Lowercasing, regex tokenization (`\b\w+\b`) without stop-word removal, and 1-based position tracking per document. | `Outputs/positional_index.txt` |
-| **Person 2** | *Member 2 Name* | **TF, DF & IDF**: Calculating Term Frequency per document, Document Frequency across $N=10$ documents, and $\text{IDF}(t) = \log_{10}(N / \text{DF}(t))$. | `Outputs/tf_df_idf.txt` |
-| **Person 3** | *Member 3 Name* | **TF-IDF & Normalization**: Computing $\text{TF-IDF} = \text{TF} \times \text{IDF}$ and applying L2 vector normalization per document. | `Outputs/tfidf_normalized.txt` |
+| Role | Team Member |
+| :--- | :--- |
+| **Person 1** | Mazen Emad AbdelSattar |
+| **Person 2** | Ahmed Ali Mohsen |
+| **Person 3** |  |
+| **Person 4** |  |
+| **Person 5** |  |
+| **Person 6** |  |
 
 *(Note: Replace placeholder names for Person 2 and Person 3 with your teammates' names.)*
 
