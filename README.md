@@ -15,7 +15,8 @@ IR_Project/
 │   └── tfidf_normalized.txt   # Output of Person 3 (Term, Document, TF, IDF, TF_IDF, Normalized)
 ├── Src/                       # Source code and Jupyter Notebooks
 │   └── Education.ipynb        # Main implementation notebook
-└── README.md                  # Project documentation
+├── README.md                  # Project documentation
+└── .gitignore                 # ignore irrelevant files (like the library)
 ```
 
 ---
